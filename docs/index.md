@@ -1,7 +1,7 @@
 # Thataway Support
 
 ## Introduction
-Thataway is a navigation tool inspired by videogame minimaps that focuses on telling you the direction your destination is in. You can keep track of multiple locations such as home base, faraway friends, and parked cars. Thataway is ideal for wandering journeys where all you need to do is head in the right direction.
+Thataway is a navigation tool inspired by videogame minimaps that focuses on telling you the direction your destination is in. It keeps track of multiple locations such as home base, faraway friends, and parked cars. Ideal for wandering journeys where all you need to know is if you're headed the right way.
 
 Features:
 - Compass-style main screen showing local area, heading, longitude, latitude, and the direction to all active waypoints
