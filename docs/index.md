@@ -1,7 +1,7 @@
 # Thataway Support
 
 ## Introduction
-Thataway is a navigation tool inspired by videogame minimaps that focuses on telling you the direction your destination is in. You can keep track of multiple locations such as home base, faraway friends, and parked cars. Ideal for wandering journeys where all you need to know is if you're headed the right way.
+Thataway is a navigation tool inspired by videogame minimaps that focuses on telling you the direction your destination is in. You can keep track of multiple locations such as home base, faraway friends, and parked cars. Thataway is ideal for wandering journeys where all you need to do is head in the right direction.
 
 Features:
 - Compass-style main screen showing local area, heading, longitude, latitude, and the direction to all active waypoints
@@ -18,8 +18,14 @@ If you have any questions, comments, or concerns please contact thatawayhelp@gma
 ## Basic Functionality
 
 ### Startup
+Thataway will prompt for permission to use your device's location. If you change your mind about what you choose, this can be altered later in Settings.
+
+The main screen is shown below.
+<img src="./main_1.png" width="300" />
+The central circle contains a map of the immediate area, which rotates to align with the direction the device is pointing. Below the map is the button to add a new Waypoint. A Waypoint is a saved location. Below that button is a display of the device's current Latitude and Longitude. Above the map is the device's current heading, in degrees and as a compass direction.
 
 ### Navigating Views
+At the top right of the main screen is a button titled **List**. Pressing it will take you to the List View, which shows all waypoints on a list.
 
 ### Adding a New Waypoint
 
