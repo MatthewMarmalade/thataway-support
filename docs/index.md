@@ -13,7 +13,10 @@ Features:
 - No data transmitted off-device
 
 ## Contact
-If you have any questions, comments, or concerns please contact thatawayhelp@gmail.com.
+If you have any questions, comments, or concerns please contact [thatawayhelp@gmail.com](mailto:thatawayhelp@gmail.com).
+
+## Privacy Policy
+[Privacy Policy](https://matthewmarmalade.github.io/thataway-support/privacy-policy)
 
 ## Basic Functionality
 
@@ -65,4 +68,4 @@ By default, a new Waypoint is always visible on the main screen. To hide it, go 
 To change the Units for distance that Thataway uses, go to the Settings app. Scroll down until you find an entry for Thataway. You should see a list of permissions, and then a section titled **Thataway Settings**, with a **Distance Unit** entry. Tap on that to open up a choice between Miles, Kilometres, and Nautical Miles. Select whichever unit you prefer, and Thataway should instantly update.
 
 ## Bug Reporting
-Again, if there are any problems with Thataway, please contact thatawayhelp@gmail.com.
+Again, if there are any problems with Thataway, please contact [thatawayhelp@gmail.com](mailto:thatawayhelp@gmail.com).
